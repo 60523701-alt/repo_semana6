@@ -1,6 +1,14 @@
-# comentario
-print("Hola desde la PC")
+nombre = input("Ingrese su nombre: ")
+edad = int(input("Ingrese su edad: "))
+estatura = input("Ingrese su estatura: ")
 
-print(" HOLA DESDE LA RAMA mensaje-mejora")
+print("<<< DATOS PERSONALES >>>")
+print("Nombre:", nombre)
+print("Edad:", edad)
+print("Estatura:", estatura)
 
-print("HOLA DESDE LA NUEVA RAMA ")
+carrera = input("Ingrese su carrera: ")
+semestre = int(input("Ingrese su semestre: "))
+
+print("Carrera: ", carrera)
+print("semestre: ", semestre)
