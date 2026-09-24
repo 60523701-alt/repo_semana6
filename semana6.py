@@ -12,3 +12,5 @@ semestre = int(input("Ingrese su semestre: "))
 
 print("Carrera: ", carrera)
 print("semestre: ", semestre)
+
+print("hola mundo")
