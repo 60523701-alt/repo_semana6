@@ -16,3 +16,4 @@ print("semestre: ", semestre)
 print("hola mundo")
 
 # cambio en main
+print("SISTEMA FUERA DE SEVICIO")
